@@ -1,0 +1,65 @@
+$color-beige-light: #FFFDFA;
+$color-grey-light: rgba(black, .2);
+$color-grey-white: rgba(black, .1);
+$color-grey: rgba(black, .4);
+$color-grey-dark: rgba(black, .6);
+$color-black-shadow: rgba(0, 0, 0, 0.05);
+$color-blue: #3780EB;
+$color-blue-dark: #1C5BB9;
+$color-green-dark: #166534;
+$color-green-bright: #28A959;
+$color-blue-light: #DAE5F8;
+$color-green-light: #DCFCE7;
+$color-purple-light: #F3E8FF;
+$color-blue-border: rgba(#1C5BB9, .2);
+$color-green-border: rgba(#166534, .2);
+$color-red-dark: #FE4D39;
+$color-red: #FE8172;
+$color-red-light: rgba($color-red-dark, .3);
+$color-red-white: rgba($color-red-dark, .2);
+$color-blue-shadow: rgba($color-blue, .3);
+$color-blue-white: rgba($color-blue, .2);
+$color-beige: #E9AD77;
+$color-beige-shadow: rgba($color-beige, .3);
+
+$color-white: #ffffff;
+$color-black: #000000;
+
+$font-size-sm: 14px;
+$font-size-base: 16px;
+$font-size-md: 18px;
+$font-size-lg: 20px;
+$font-size-xl: 21px;
+$font-size-2xl: 24px;
+$font-size-3xl: 32px;
+
+$radius-sm: 8px;
+$radius-md: 10px;
+$radius-lg: 16px;
+$radius-xl: 20px;
+
+$spacing-sm: 15px;
+$spacing-md: 20px;
+$spacing-lg: 25px;
+$spacing-xl: 40px;
+
+$common-shadow-length: 20px;
+$common-shadow: 5px 5px $common-shadow-length 0;
+$cta-shadow: 0 0 30px 0;
+
+$transition: 0.2s;
+
+$padding-side: 48px; 
+$padding-side-adaptive: 5vw; 
+$max-container-width: 1440px;
+$padding-block: 120px;
+$padding-block-sm: calc($padding-side-adaptive * 4);
+$padding-block-lg: 90px;
+
+$breakpoint-xs: 380px;
+$breakpoint-ph: 440px;
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+$breakpoint-xxl: 1440px;

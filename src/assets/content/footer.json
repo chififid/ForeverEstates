@@ -1,0 +1,58 @@
+{
+  "company": {
+    "name": "Forever Estates",
+    "description": "Forever Estates is Dubai's premier real estate advisory and brokerage firm, specializing in data-driven investment strategies for international clients seeking high-return opportunities in the UAE market."
+  },
+  "social": [
+    {
+      "name": "Instagram",
+      "icon": "instagram.svg"
+    },
+    {
+      "name": "Telegram",
+      "icon": "telegram.svg"
+    },
+    {
+      "name": "YouTube",
+      "icon": "youtube.svg"
+    }
+  ],
+  "contact": {
+    "phone": {
+      "icon": "phone.svg",
+      "text": "+971-50-386-4952"
+    },
+    "whatsapp": {
+      "icon": "whatsapp.svg",
+      "text": "Start Conversation"
+    },
+    "address": {
+      "icon": "location.svg",
+      "text": "ABC Company, 123 East, 17th Street, St. Louis 10001"
+    }
+  },
+  "navigation": {
+    "title": "Quick Links",
+    "links": [
+      { "label": "Home", "hash": "#top" },
+      { "label": "About", "hash": "#about" },
+      { "label": "Services", "hash": "#services" },
+      { "label": "Why Choose Us", "hash": "#why" },
+      { "label": "FAQ", "hash": "#faq" },
+      { "label": "Contact", "hash": "#contact" }
+    ]
+  },
+  "bottom": {
+    "copyright": "Copyright © 2022 • ABR LLC",
+    "policies": [
+      {
+        "label": "Privacy Policy",
+        "hash": "#privacy"
+      },
+      {
+        "label": "Terms of Use",
+        "hash": "#terms"
+      }
+    ]
+  }
+}

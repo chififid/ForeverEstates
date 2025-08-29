@@ -1,0 +1,43 @@
+{
+  "title": "Schedule your free consultation",
+  "description": "Leave your contact information and we will contact you shortly to schedule a consultation with one of our brokers",
+  "form": {
+    "name": {
+      "label": "Full Name",
+      "placeholder": "Isabella Turner"
+    },
+    "phone": {
+      "label": "Your Phone",
+      "countryCode": "+971",
+      "placeholder": "00-0000-0000"
+    }
+  },
+  "button": {
+    "text": "Schedule consultation",
+    "icon": "→"
+  },
+  "footer": {
+    "phone": {
+      "icon": "phone",
+      "text": "+971-50-386-4952"
+    },
+    "chat": {
+      "icon": "whatsapp",
+      "text": "Start Conversation"
+    },
+    "social": [
+      {
+        "name": "Instagram",
+        "icon": "instagram"
+      },
+      {
+        "name": "Telegram", 
+        "icon": "telegram"
+      },
+      {
+        "name": "YouTube",
+        "icon": "youtube"
+      }
+    ]
+  }
+}

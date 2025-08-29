@@ -1,0 +1,101 @@
+{
+  "title": "A Full-Cycle Investment Support",
+  "subtitle": "Forever Estates offers a complete suite of services designed to make property investment in the UAE seamless, backed by data, and profitable.",
+  "timeline": [
+    {
+      "id": "01",
+      "title": "Negotiation & Acquisition",
+      "tags": "Exclusive properties • Discounts",
+      "description": "Our negotiation process goes beyond discounts. We provide access to exclusive launches, secure high-ROI potential units, and secure payment and contract terms that strengthen your position as an investor.",
+      "review": {
+        "author": "Isabella Turner",
+        "date": "March 22, 2023",
+        "stars": 5,
+        "text": "Outstanding service and dedication! They worked with us until we were completely satisfied.",
+        "checkText": "Check it →",
+        "avatar": "review-icon-1.jpg"
+      }
+    },
+    {
+      "id": "02",
+      "title": "Financing & Payment execution",
+      "tags": "Mortgage advisory • Flexible plans • Smooth process",
+      "description": "Our team ensures that payment and financing are aligned with your investment strategy. We connect you with a trusted mortgage advisors who review developer payment plans, and oversee execution to eliminate risks and delays.",
+      "review": {
+        "author": "Michael Chen",
+        "date": "February 15, 2023",
+        "stars": 5,
+        "text": "Their negotiation skills saved us thousands! Professional and thorough throughout the entire process.",
+        "checkText": "Check it →",
+        "avatar": "review-icon-1.jpg"
+      }
+    },
+    {
+      "id": "03",
+      "title": "Construction Monitoring",
+      "tags": "Progress update • Transparency",
+      "description": "Our construction monitoring service ensures accountability throughout the build. We control progress against timelines and share transparent updates.",
+      "review": {
+        "author": "Sarah Johnson",
+        "date": "January 28, 2023",
+        "stars": 5,
+        "text": "The financing process was incredibly smooth. They handled everything professionally and kept us informed every step.",
+        "checkText": "Check it →",
+        "avatar": "review-icon-1.jpg"
+      }
+    },
+    {
+      "id": "04",
+      "title": "Visa & Legal Assistance",
+      "tags": "Golden Visa • Compliance • Smooth processing",
+      "description": "Our trusted legal and visa advisory partners ensure your investment is fully compliant and future-proof. They facilitate Golden Visa applications, manage all documentation, and oversee the process end-to-end.",
+      "review": {
+        "author": "David Rodriguez",
+        "date": "December 10, 2022",
+        "stars": 5,
+        "text": "Their construction monitoring gave us peace of mind. We knew exactly what was happening with our investment.",
+        "checkText": "Check it →",
+        "avatar": "review-icon-1.jpg"
+      }
+    },
+    {
+      "id": "05",
+      "title": "Monetization & Management",
+      "tags": "Tenant search • Property management • Selling",
+      "description": "To maximize income and protect your asset, we connect you with a trusted property management company. They handle tenant sourcing, rent administration, and short-term rental management.",
+      "review": {
+        "author": "Emma Wilson",
+        "date": "November 5, 2022",
+        "stars": 5,
+        "text": "The visa process was handled flawlessly. They made everything so easy for our family relocation.",
+        "checkText": "Check it →",
+        "avatar": "review-icon-1.jpg"
+      }
+    }
+  ],
+  "features": [
+    {
+      "title": "Legal & Tax Advisory",
+      "description": "Experts review contracts, taxes, and compliance requirements - ensuring your investment is fully protected and aligned with UAE regulations.",
+      "icon": "document.svg"
+    },
+    {
+      "title": "Property Management",
+      "description": "Through our trusted partner, we arrange tenant placement, rent collection, and furnishing support — making property ownership effortless and profitable.",
+      "icon": "management.svg"
+    },
+    {
+      "title": "Snagging Services",
+      "description": "Our detailed inspections identify and resolve construction defects, guaranteeing quality and protecting your asset before handover.",
+      "icon": "star.svg"
+    },
+    {
+      "title": "Mortgage Support",
+      "description": "We simplify financing by connecting you with experienced advisors who secure the most favorable mortgage terms and bank offers.",
+      "icon": "house.svg"
+    }
+  ],
+  "cta": {
+    "text": "Start your journey with us now"
+  }
+}

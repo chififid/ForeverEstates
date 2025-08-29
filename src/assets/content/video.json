@@ -1,0 +1,14 @@
+{ 
+  "review": {
+    "author": "Isabella Turner",
+    "date": "March 26, 2023",
+    "avatar": "review-icon-1.jpg",
+    "text": "Outstanding service and dedication! They worked with us until we were completely satisfied. Truly a team that goes the extra mile.",
+    "checkText": "Check it →",
+    "stars": 5
+  },
+  "cta": {
+    "text": "Get a FREE consultation",
+    "icon": "→"
+  }
+}

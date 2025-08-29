@@ -1,0 +1,46 @@
+{
+  "title": "All about us",
+  "cards": [
+    {
+      "title": "Zero brokerage fee",
+      "text": "Our advisory and brokerage services are free when you invest in off-plan properties. You receive full, end-to-end support — from analysis to negotiation — without paying a brokerage fee. For secondary properties, we charge a flat 2.1%, always transparent and without hidden costs.",
+      "iconType": "blue",
+      "icon": "target.svg"
+    },
+    {
+      "title": "Data-Driven & Finance-Based",
+      "text": "We approach real estate like financial markets: with data, financial analysis, and risk control. Backed by backgrounds at [BCG, EY, and KPMG]",
+      "iconType": "purple",
+       "icon": "team.svg"
+    },
+    {
+      "title": "Licensed & Regulated",
+      "text": [],
+      "iconType": "green",
+      "icon": "license.svg",
+      "license": {
+        "title": "UAE Real Estate License",
+        "subtitle": "Authorized by Dubai Land Department",
+        "status": "Active",
+        "downloadText": "Click to download*"
+      }
+    },
+    {
+      "icon": "person.svg",
+      "title": "Jay, CEO & Founder",
+      "text": [
+        "Dear investor,\n\n",
+        "Finding a good investment property in Dubai is hard. Really hard.\n\n",
+        "Most agents don't understand investing. They sell glossy brochures, AI pictures, and \"luxury\" buzzwords - but not numbers. No rental yield, no exit strategy, no risk analysis. For investors, that often leads to costly mistakes.\n\n",
+        "I founded Forever Estates to change this. With my background at EY and BCG, and a team with decades of real estate experience, we bring financial discipline, data, and transparency into every deal.\n\n",
+        "For you, that means:\n",
+        "No bad deals\n",
+        "The right price, negotiated\n",
+        "Confidence and a clear exit strategy\n\n",
+        "If you want your next Dubai investment to be backed by facts and data, book your free consultation today. Let's find the property that works for your portfolio.\n\n",
+        "— Jay Abrams, CEO"
+      ],
+      "iconType": "gray"
+    }
+  ]
+}

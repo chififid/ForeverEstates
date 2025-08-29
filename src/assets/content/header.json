@@ -1,0 +1,18 @@
+{
+  "logo": "Forever Estates",
+  "navigation": {
+    "links": [
+      { "label": "Home", "hash": "#top" },
+      { "label": "About", "hash": "#about" },
+      { "label": "Services", "hash": "#services" },
+      { "label": "Why Choose Us", "hash": "#why" },
+      { "label": "FAQ", "hash": "#faq" },
+      { "label": "Contact", "hash": "#contact" }
+    ],
+    "ctaButton": {
+      "text": "Get a FREE consultation",
+      "icon": "->",
+      "hash": "#contact"
+    }
+  }
+}

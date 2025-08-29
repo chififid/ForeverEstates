@@ -1,0 +1,426 @@
+{
+  "title": "Why Choose Us",
+  "stats": {
+    "clients": "500+",
+    "clientsText": "Clients Helped",
+    "deals": "$2.5B+",
+    "dealsText": "In Closed Deals"
+  },
+  "cta": {
+    "text": "Get a FREE consultation"
+  },
+  "leftColumn": [
+    {
+      "type": "video-review",
+      "author": "Isabella Turner",
+      "date": "March 22, 2023",
+      "stars": 5,
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "type": "review",
+      "author": "Michael Chen",
+      "date": "April 15, 2023",
+      "stars": 5,
+      "text": "Professional approach and excellent results. The team exceeded our expectations and delivered on time.",
+      "avatar": "avatar-2.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "video-review",
+      "author": "Sarah Johnson",
+      "date": "May 8, 2023",
+      "stars": 5,
+      "videoUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0"
+    },
+    {
+      "type": "logo",
+      "name": "Forbes",
+      "logo": "forbes.svg"
+    },
+    {
+      "type": "review",
+      "author": "David Rodriguez",
+      "date": "June 12, 2023",
+      "stars": 5,
+      "text": "Highly recommend their services. Great communication and fantastic results that boosted our business.",
+      "avatar": "avatar-4.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Emma Wilson",
+      "date": "July 3, 2023",
+      "stars": 5,
+      "text": "Top-notch professionals who really understand their craft. Delivery was smooth and efficient.",
+      "avatar": "avatar-5.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "James Anderson",
+      "date": "August 18, 2023",
+      "stars": 5,
+      "text": "Exceptional quality and service. They transformed our vision into reality with remarkable precision.",
+      "avatar": "avatar-6.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "logo",
+      "name": "TechCrunch",
+      "logo": "forbes.svg"
+    },
+    {
+      "type": "review",
+      "author": "Isabella Turner",
+      "date": "March 22, 2023",
+      "stars": 5,
+      "text": "Outstanding service and dedication! They worked with us until we were completely satisfied. Truly a team that goes the extra mile.",
+      "avatar": "avatar-1.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Michael Chen",
+      "date": "April 15, 2023",
+      "stars": 5,
+      "text": "Professional approach and excellent results. The team exceeded our expectations and delivered on time.",
+      "avatar": "avatar-2.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Sarah Johnson",
+      "date": "May 8, 2023",
+      "stars": 5,
+      "text": "Amazing experience from start to finish. Their expertise and attention to detail is unmatched.",
+      "avatar": "avatar-3.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "logo",
+      "name": "Bloomberg",
+      "logo": "forbes.svg"
+    },
+    {
+      "type": "review",
+      "author": "David Rodriguez",
+      "date": "June 12, 2023",
+      "stars": 5,
+      "text": "Highly recommend their services. Great communication and fantastic results that boosted our business.",
+      "avatar": "avatar-4.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Emma Wilson",
+      "date": "July 3, 2023",
+      "stars": 5,
+      "text": "Top-notch professionals who really understand their craft. Delivery was smooth and efficient.",
+      "avatar": "avatar-5.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "James Anderson",
+      "date": "August 18, 2023",
+      "stars": 5,
+      "text": "Exceptional quality and service. They transformed our vision into reality with remarkable precision.",
+      "avatar": "avatar-6.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "logo",
+      "name": "Reuters",
+      "logo": "forbes.svg"
+    },
+    {
+      "type": "review",
+      "author": "Isabella Turner",
+      "date": "March 22, 2023",
+      "stars": 5,
+      "text": "Outstanding service and dedication! They worked with us until we were completely satisfied. Truly a team that goes the extra mile.",
+      "avatar": "avatar-1.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Michael Chen",
+      "date": "April 15, 2023",
+      "stars": 5,
+      "text": "Professional approach and excellent results. The team exceeded our expectations and delivered on time.",
+      "avatar": "avatar-2.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Sarah Johnson",
+      "date": "May 8, 2023",
+      "stars": 5,
+      "text": "Amazing experience from start to finish. Their expertise and attention to detail is unmatched.",
+      "avatar": "avatar-3.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "logo",
+      "name": "Wall Street Journal",
+      "logo": "forbes.svg"
+    },
+    {
+      "type": "review",
+      "author": "David Rodriguez",
+      "date": "June 12, 2023",
+      "stars": 5,
+      "text": "Highly recommend their services. Great communication and fantastic results that boosted our business.",
+      "avatar": "avatar-4.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Emma Wilson",
+      "date": "July 3, 2023",
+      "stars": 5,
+      "text": "Top-notch professionals who really understand their craft. Delivery was smooth and efficient.",
+      "avatar": "avatar-5.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "James Anderson",
+      "date": "August 18, 2023",
+      "stars": 5,
+      "text": "Exceptional quality and service. They transformed our vision into reality with remarkable precision.",
+      "avatar": "avatar-6.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "logo",
+      "name": "Business Insider",
+      "logo": "forbes.svg"
+    },
+    {
+      "type": "review",
+      "author": "Isabella Turner",
+      "date": "March 22, 2023",
+      "stars": 5,
+      "text": "Outstanding service and dedication! They worked with us until we were completely satisfied. Truly a team that goes the extra mile.",
+      "avatar": "avatar-1.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Michael Chen",
+      "date": "April 15, 2023",
+      "stars": 5,
+      "text": "Professional approach and excellent results. The team exceeded our expectations and delivered on time.",
+      "avatar": "avatar-2.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Sarah Johnson",
+      "date": "May 8, 2023",
+      "stars": 5,
+      "text": "Amazing experience from start to finish. Their expertise and attention to detail is unmatched.",
+      "avatar": "avatar-3.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "logo",
+      "name": "Entrepreneur",
+      "logo": "forbes.svg"
+    },
+    {
+      "type": "review",
+      "author": "David Rodriguez",
+      "date": "June 12, 2023",
+      "stars": 5,
+      "text": "Highly recommend their services. Great communication and fantastic results that boosted our business.",
+      "avatar": "avatar-4.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Emma Wilson",
+      "date": "July 3, 2023",
+      "stars": 5,
+      "text": "Top-notch professionals who really understand their craft. Delivery was smooth and efficient.",
+      "avatar": "avatar-5.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "James Anderson",
+      "date": "August 18, 2023",
+      "stars": 5,
+      "text": "Exceptional quality and service. They transformed our vision into reality with remarkable precision.",
+      "avatar": "avatar-6.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "logo",
+      "name": "Inc",
+      "logo": "forbes.svg"
+    }
+  ],
+  "rightColumn": [
+    {
+      "type": "review",
+      "author": "Isabella Turner",
+      "date": "March 22, 2023",
+      "stars": 5,
+      "text": "Outstanding service and dedication! They worked with us until we were completely satisfied. Truly a team that goes the extra mile.",
+      "avatar": "avatar-1.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "video-review",
+      "author": "Michael Chen",
+      "date": "April 15, 2023",
+      "stars": 5,
+      "videoUrl": "https://www.youtube.com/watch?v=kJQP7kiw5Fk"
+    },
+    {
+      "type": "review",
+      "author": "Sarah Johnson",
+      "date": "May 8, 2023",
+      "stars": 5,
+      "text": "Amazing experience from start to finish. Their expertise and attention to detail is unmatched.",
+      "avatar": "avatar-3.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "video-review",
+      "author": "David Rodriguez",
+      "date": "June 12, 2023",
+      "stars": 5,
+      "videoUrl": "https://www.youtube.com/watch?v=ZZ5LpwO-An4"
+    },
+    {
+      "type": "review",
+      "author": "Emma Wilson",
+      "date": "July 3, 2023",
+      "stars": 5,
+      "text": "Top-notch professionals who really understand their craft. Delivery was smooth and efficient.",
+      "avatar": "avatar-5.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "James Anderson",
+      "date": "August 18, 2023",
+      "stars": 5,
+      "text": "Exceptional quality and service. They transformed our vision into reality with remarkable precision.",
+      "avatar": "avatar-6.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Isabella Turner",
+      "date": "March 22, 2023",
+      "stars": 5,
+      "text": "Outstanding service and dedication! They worked with us until we were completely satisfied. Truly a team that goes the extra mile.",
+      "avatar": "avatar-1.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Michael Chen",
+      "date": "April 15, 2023",
+      "stars": 5,
+      "text": "Professional approach and excellent results. The team exceeded our expectations and delivered on time.",
+      "avatar": "avatar-2.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Sarah Johnson",
+      "date": "May 8, 2023",
+      "stars": 5,
+      "text": "Amazing experience from start to finish. Their expertise and attention to detail is unmatched.",
+      "avatar": "avatar-3.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "David Rodriguez",
+      "date": "June 12, 2023",
+      "stars": 5,
+      "text": "Highly recommend their services. Great communication and fantastic results that boosted our business.",
+      "avatar": "avatar-4.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Emma Wilson",
+      "date": "July 3, 2023",
+      "stars": 5,
+      "text": "Top-notch professionals who really understand their craft. Delivery was smooth and efficient.",
+      "avatar": "avatar-5.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "James Anderson",
+      "date": "August 18, 2023",
+      "stars": 5,
+      "text": "Exceptional quality and service. They transformed our vision into reality with remarkable precision.",
+      "avatar": "avatar-6.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Isabella Turner",
+      "date": "March 22, 2023",
+      "stars": 5,
+      "text": "Outstanding service and dedication! They worked with us until we were completely satisfied. Truly a team that goes the extra mile.",
+      "avatar": "avatar-1.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Michael Chen",
+      "date": "April 15, 2023",
+      "stars": 5,
+      "text": "Professional approach and excellent results. The team exceeded our expectations and delivered on time.",
+      "avatar": "avatar-2.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Sarah Johnson",
+      "date": "May 8, 2023",
+      "stars": 5,
+      "text": "Amazing experience from start to finish. Their expertise and attention to detail is unmatched.",
+      "avatar": "avatar-3.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "David Rodriguez",
+      "date": "June 12, 2023",
+      "stars": 5,
+      "text": "Highly recommend their services. Great communication and fantastic results that boosted our business.",
+      "avatar": "avatar-4.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "Emma Wilson",
+      "date": "July 3, 2023",
+      "stars": 5,
+      "text": "Top-notch professionals who really understand their craft. Delivery was smooth and efficient.",
+      "avatar": "avatar-5.svg",
+      "checkText": "Check it →"
+    },
+    {
+      "type": "review",
+      "author": "James Anderson",
+      "date": "August 18, 2023",
+      "stars": 5,
+      "text": "Exceptional quality and service. They transformed our vision into reality with remarkable precision.",
+      "avatar": "avatar-6.svg",
+      "checkText": "Check it →"
+    }
+  ]
+}
